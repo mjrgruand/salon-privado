@@ -1,0 +1,19 @@
+:root {
+  --bg-cream: #f6f2e9;
+  --bg-obsidian: #111111;
+  --gold-accent: #b89448;
+  --gold-subtle: rgba(184, 148, 72, 0.35);
+  --text-ink: #161513;
+  --text-muted: #5c574f;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: var(--bg-cream);
+  color: var(--text-ink);
+  font-family: "Cormorant Garamond", Georgia, serif;
+}

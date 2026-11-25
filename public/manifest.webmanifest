@@ -1,0 +1,20 @@
+{
+  "name": "Salon Privado",
+  "short_name": "Salon Privado",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f2e9",
+  "theme_color": "#b89448",
+  "icons": [
+    {
+      "src": "/photos/01.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/photos/02.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
